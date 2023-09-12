@@ -6,7 +6,7 @@
 
 ---
 
-learning Web development and i know about 
+**learning Web development and i know about**
 - **html**
 - **CSS**
 - **JavaScript**
